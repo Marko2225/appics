@@ -1,5 +1,7 @@
 # vue-frontend
-<!-- Contact: [LinkedIn](https://www.linkedin.com/in/marko-markovic-a3b32066) -->
+
+Contact: [LinkedIn](https://www.linkedin.com/in/marko-markovic-a3b32066)
+
 ## Project setup
 ```
 npm install
